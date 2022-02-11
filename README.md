@@ -3,7 +3,7 @@
   
 <br>
   
-<img src="Code typing.gif" alt="Gif" width="300px" align="right"/>
+<img src="gif-computer.gif" alt="Gif" width="300px" align="right"/>
                                                
 <p align="left">                                               
 :mortar_board: Técnica em Eletrônica e estudante de Análise e Desenvolvimento de Sistemas
