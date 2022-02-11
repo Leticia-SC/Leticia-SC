@@ -3,14 +3,25 @@
   
 <br>
   
+<img src="Code typing.gif" alt="Gif" width="300px" align="right"/>
+                                               
+<p align="left">                                               
 :mortar_board: Sou técnica em Eletrônica e estudante de Análise e Desenvolvimento de Sistemas
+</p>
 
+<p align="left"> 
 :bellhop_bell: Meus serviços incluem: UX/UI design, responsividade e código limpo.   
-
+</p>
+               
+<p align="left"> 
 :thought_balloon: Meus passatempos preferidos são ouvir música, ir para a academia e ler.
-
+</p>
+               
+<p align="left"> 
 :love_letter: Mande mensagem, vamos conversar! :arrow_heading_down:
-  
+</p>
+               
+<p align="left">
  <a href="https://www.linkedin.com/in/letícia-campos-09a7a4224" alt="linkedin" target="_blank">
   <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
@@ -23,8 +34,8 @@
   <a href="https://www.instagram.com/_leticia_sc/" alt="instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" />
   </a>
-  
-  <br>
+</p>                                                                                                                        
+ 
   <br>
 
 ### :nerd_face: Possuo conhecimentos sólidos em:
