@@ -44,6 +44,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&logoColor=F7DF1E)
 ![C++](https://img.shields.io/badge/C++-333333.svg?style=flat&logo=c%2B%2B&logoColor=1572B6)
+![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jQuery&logoColor=0769AD)
 #### Ferramentas
 ![Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-333333?style=flat&logo=Adobe%20Photoshop&logoColor=31A8FF)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=Git&logoColor=f85434)
