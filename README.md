@@ -1,5 +1,5 @@
 # <p align=center> :wave: Olá, Meu nome é Letícia Campos!
-### <p align=center> Sou desenvolvedora front-end e web designer
+### <p align=center> Sou desenvolvedora front-end
   
 <br>
   
@@ -10,11 +10,11 @@
 </p>
 
 <p align="left"> 
-:bellhop_bell: Meus serviços incluem: UX/UI design, responsividade e código limpo.   
+:bellhop_bell: UX/UI design, responsividade e código limpo.   
 </p>
                
 <p align="left"> 
-:thought_balloon: Meus passatempos preferidos são ouvir música, ir para a academia e ler.
+:thought_balloon: Meus passatempos preferidos são ouvir música, me exercitar e ler.
 </p>
                
 <p align="left"> 
