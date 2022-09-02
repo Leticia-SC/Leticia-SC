@@ -23,16 +23,16 @@
                
 <p align="left">
  <a href="https://www.linkedin.com/in/letícia-campos-09a7a4224" alt="linkedin" target="_blank">
-  <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://wa.me/5513997972103" alt="WhatsApp" target="_blank">
-  <img src="https://img.shields.io/badge/-Whatsapp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5513997972103"/>
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
   <a href="mailto:scleticiaa@gmail.com" alt="gmail" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:scleticiaa@gmail.com" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.instagram.com/_leticia_sc/" alt="instagram" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>                                                                                                                        
  
@@ -40,18 +40,21 @@
 
 ### :nerd_face: Possuo conhecimentos sólidos em:
 #### Linguagens
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&logoColor=F7DF1E)
-![C++](https://img.shields.io/badge/C++-333333.svg?style=flat&logo=c%2B%2B&logoColor=1572B6)
-![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jQuery&logoColor=0769AD)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 #### Ferramentas
-![Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-333333?style=flat&logo=Adobe%20Photoshop&logoColor=31A8FF)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=Git&logoColor=f85434)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ### :monocle_face: Também sei um pouco de:
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=61dafb)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap&logoColor=7952B3)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### :gear: Meu status
 <a href="https://github.com/Gurupreet">
