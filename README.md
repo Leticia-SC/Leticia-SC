@@ -1,5 +1,4 @@
 # <p align=center> :wave: Olá, Meu nome é Letícia Campos!
-### <p align=center> Sou desenvolvedora RPA
   
 <br>
   
